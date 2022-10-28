@@ -1,0 +1,13 @@
+DNI|IdMateria|PrimerParcial|SegundoParcial|Recuperatorio|Final
+bruno|3|1|1||
+agus|3|9|9||
+nico|3|4|1|9|
+jose|3||9||
+daro|19|3|9|8|
+paco|19|5|4||
+sanri|19|3|1||
+tito|19||||
+rok|1|2|10|9|
+pepe|1|6|4||
+juan|1|3|3|1|
+luis|1||1||

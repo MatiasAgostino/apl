@@ -1,0 +1,38 @@
+{
+  "departamentos": [
+    {
+      "id": 1,
+      "notas": [
+        {
+          "id_materia": 1,
+          "descripcion": "Sistemas Operativos",
+          "final": 1,
+          "recursan": 2,
+          "abandonaron": 1,
+          "promocionaron": 2
+        },
+        {
+          "id_materia": 2,
+          "descripcion": "Programación 1",
+          "final": 0,
+          "recursan": 0,
+          "abandonaron": 0,
+          "promocionaron": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "notas": [
+        {
+          "id_materia": 3,
+          "descripcion": "Derecho 1",
+          "final": 0,
+          "recursan": 0,
+          "abandonaron": 0,
+          "promocionaron": 0
+        }
+      ]
+    }
+  ]
+}

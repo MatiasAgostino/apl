@@ -1,0 +1,6 @@
+IdMateria|Descripcion|Departamento
+199|Bases de Datos|1
+333|Programacion|1
+204|Analisis de SW|1
+555|Nutricion|3
+999|Anatomia|9

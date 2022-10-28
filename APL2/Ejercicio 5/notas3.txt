@@ -1,0 +1,5 @@
+DNI|IdMateria|PrimerParcial|SegundoParcial|Recuperatorio|Final
+bruno|3|1|1||
+agus|3|9|9||
+nico|3|4|1|9|
+jose|3||9||

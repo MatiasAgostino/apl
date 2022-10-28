@@ -1,0 +1,4 @@
+IdMateria|Descripcion|Departamento
+3|Bases de Datos|5
+1|Biologia|3
+19|Contabilidad 1|2
