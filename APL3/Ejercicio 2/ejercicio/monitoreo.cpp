@@ -174,7 +174,10 @@ int main(int argc, char** argv)
     }
 
     if (argc <= 2 && (!strcmp(argv[1], "-h") || !strcmp(argv[1], "--help"))) {
-        cout << "Help\n";
+        cout << "El programa monitorea el directorio que le es pasado por parametro.\n";
+        cout << "Se monitorean cambios en archivos y en subdirectorios de profundidad nivel 1.\n";
+        cout << "Ejemplo de uso: ./monitoreo /paht\n";
+        cout << "Para compilarlo escriba el siguiente comando: make\n";
 
         return 0;
     }
